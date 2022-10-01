@@ -1,2 +1,7 @@
-# MDP-CT-22FALL
-A collection of work for the Creative Tech For MDP concept year 2022
+# Project1:MachineSelect
+by YIXIN & RUE
+
+Process archive:
+
+Final video:
+
